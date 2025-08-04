@@ -1,8 +1,10 @@
 ---
 title: Who the hell are you people?
+author: <VargaDot>
 date: 2025-08-04 14:43:00 +0200
 categories: [Announcement]
 tags: [unserious] # TAG names should always be lowercase
+description: Ramblings of a mad man
 ---
 
 ### Who the hell are you people????
