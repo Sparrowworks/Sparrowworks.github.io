@@ -1,8 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
-author: <sparrowworks>
+order: 5
 ---
 
 ## Who are you?
