@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+echo "export GEM_HOME=$HOME/.gem" >> $HOME/.bashrc
+
 if [ -f package.json ]; then
   bash -i -c "nvm install --lts && nvm install-latest-npm"
   npm i
