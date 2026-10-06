@@ -7,6 +7,8 @@ categories:
 tags: [shooting-gallery, new-release, godot]
 
 description: A point and shoot game made in Godot!
+image:
+  path: https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDU5MjI3Mi5qcGc=/original/oOUmc2.jpg
 ---
 
 ## Game Description
@@ -16,6 +18,12 @@ Relax and enjoy yourself with Shooting Gallery - and point and shoot game, where
 ## Play The Game
 Our game is available to download on itch.io. A widget will appear below that will let you download and play the game (opens a new page):
 <iframe frameborder="0" src="https://itch.io/embed/2070723?bg_color=fb922b&amp;fg_color=ffffff&amp;link_color=ffffff&amp;border_color=d97009" width="552" height="167"><a href="https://sparrowworks.itch.io/shooting-gallery">Shooting Gallery [REVAMPED] by Sparrowworks</a></iframe>
+
+## Game Screenshots
+
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ2MC5wbmc=/original/Ykp2iq.png){: width="1280" height="720" }
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ1OC5wbmc=/original/VnTms9.png){: width="1280" height="720" }
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ1OS5wbmc=/original/59U5rK.png){: width="1280" height="720" }
 
 ## Credits
 Coded by: SP4R0W

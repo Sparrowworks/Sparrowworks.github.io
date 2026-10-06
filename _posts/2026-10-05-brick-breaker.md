@@ -7,6 +7,8 @@ categories:
 tags: [brick-breaker, new-release, godot]
 
 description: A simple Arkanoid clone with the ability to create your own levels!
+image:
+  path: https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDU5MjEyMS5qcGc=/original/Zj%2B%2Bl4.jpg
 ---
 
 ## Game Description
@@ -16,6 +18,13 @@ Welcome to Brick Breaker - a clone of one of the most beloved games ever - Arkan
 ## Play The Game
 Our game is available to play on itch.io. A widget will appear below that will let you play the game (opens a new page):
 <iframe frameborder="0" src="https://itch.io/embed/1764809?bg_color=34343f&amp;fg_color=faf9f9&amp;link_color=ffffff&amp;border_color=696971" width="552" height="167"><a href="https://sparrowworks.itch.io/brick-breaker">Brick Breaker [v1.0.1] by Sparrowworks</a></iframe>
+
+## Game Screenshots
+
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5Ni5wbmc=/original/BjWqJP.png){: width="1280" height="720" }
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5OC5wbmc=/original/f3VaI%2B.png){: width="1280" height="720" }
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5Ny5wbmc=/original/oFiZE6.png){: width="1280" height="720" }
+![Screenshot 4](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5OS5wbmc=/original/qMbwle.png){: width="1280" height="720" }
 
 ## Credits
 Coded by: SP4R0W
