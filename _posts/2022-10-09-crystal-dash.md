@@ -8,7 +8,7 @@ tags: [crystal-dash, new-release, godot]
 
 description: Check out our Crystal Dash - a simple clone of a cult classic Bejeweled!
 image:
-  path: https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8zMDU5MjcwNS5qcGc=/original/4i2L5v.jpg
+  path: https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8zMDYyMTgxNS5wbmc=/original/B0FvF1.png
 ---
 
 ## Game Description
@@ -21,9 +21,9 @@ Our game is available to play on itch.io. A widget will appear below that will l
 
 ## Game Screenshots
 
-![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8yMDQ4NjQ2MC5wbmc=/original/hTal08.png){: width="1280" height="720" }
-![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8yMDkyNDQ0OC5wbmc=/original/%2FoVykr.png){: width="1280" height="720" }
-![Screenshot 3](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8yMDkyNDQ0OS5wbmc=/original/GIgygy.png){: width="1280" height="720" }
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8zMDYyMTgxNy5wbmc=/original/K3%2FgBq.png){: width="1280" height="720" }
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8zMDYyMTgxNi5wbmc=/original/5OeNb3.png){: width="1280" height="720" }
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMTcxMjU2Mi8zMDYyMTgxOC5wbmc=/original/bRMcS5.png){: width="1280" height="720" }
 
 ## Credits
 Coded by: SP4R0W

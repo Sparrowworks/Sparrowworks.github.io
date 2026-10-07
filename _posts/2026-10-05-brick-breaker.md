@@ -8,7 +8,7 @@ tags: [brick-breaker, new-release, godot]
 
 description: A simple Arkanoid clone with the ability to create your own levels!
 image:
-  path: https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDU5MjEyMS5qcGc=/original/Zj%2B%2Bl4.jpg
+  path: https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDYyMTY2My5wbmc=/original/vbvaUx.png
 ---
 
 ## Game Description
@@ -21,10 +21,10 @@ Our game is available to play on itch.io. A widget will appear below that will l
 
 ## Game Screenshots
 
-![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5Ni5wbmc=/original/BjWqJP.png){: width="1280" height="720" }
-![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5OC5wbmc=/original/f3VaI%2B.png){: width="1280" height="720" }
-![Screenshot 3](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5Ny5wbmc=/original/oFiZE6.png){: width="1280" height="720" }
-![Screenshot 4](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8yMDkyNDM5OS5wbmc=/original/qMbwle.png){: width="1280" height="720" }
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDYyMTY2Mi5wbmc=/original/nf1PaI.png){: width="1280" height="720" }
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDYyMTY1OS5wbmc=/original/%2BO9bx%2F.png){: width="1280" height="720" }
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDYyMTY2MC5wbmc=/original/6V%2F%2BjT.png){: width="1280" height="720" }
+![Screenshot 4](https://img.itch.zone/aW1hZ2UvMTc2NDgwOS8zMDYyMTY2MS5wbmc=/original/G14xsv.png){: width="1280" height="720" }
 
 ## Credits
 Coded by: SP4R0W

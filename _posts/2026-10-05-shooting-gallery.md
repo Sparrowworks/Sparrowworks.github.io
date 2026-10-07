@@ -8,7 +8,7 @@ tags: [shooting-gallery, new-release, godot]
 
 description: A point and shoot game made in Godot!
 image:
-  path: https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDU5MjI3Mi5qcGc=/original/oOUmc2.jpg
+  path: https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDYyMTU3My5wbmc=/original/ocDx4u.png
 ---
 
 ## Game Description
@@ -21,9 +21,9 @@ Our game is available to download on itch.io. A widget will appear below that wi
 
 ## Game Screenshots
 
-![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ2MC5wbmc=/original/Ykp2iq.png){: width="1280" height="720" }
-![Screenshot 2](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ1OC5wbmc=/original/VnTms9.png){: width="1280" height="720" }
-![Screenshot 3](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8yMTQyNzQ1OS5wbmc=/original/59U5rK.png){: width="1280" height="720" }
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDYyMTU2Ny5wbmc=/original/v9c%2BMJ.png){: width="1280" height="720" }
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDYyMTU2OS5wbmc=/original/AEunSM.png){: width="1280" height="720" }
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMjA3MDcyMy8zMDYyMTU3Mi5wbmc=/original/vrevj%2F.png){: width="1280" height="720" }
 
 ## Credits
 Coded by: SP4R0W
