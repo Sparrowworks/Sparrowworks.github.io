@@ -4,16 +4,7 @@ refactor: true
 ---
 {% include lang.html %}
 
-{%- comment -%}
-  Filter posts by the category specified in the page front matter.
-
-  Example:
-    category: Games
-
-  This uses the same post-card structure as Chirpy 7.3.1.
-{%- endcomment -%}
-
-{% assign category_posts = site.posts | where_exp: 'post', 'post.categories contains page.category' %}
+{% assign category_posts = paginator.posts %}
 
 {% assign all_pinned = category_posts | where: 'pin', 'true' %}
 
@@ -195,4 +186,74 @@ refactor: true
   {% endfor %}
 </div>
 
-<!-- #post-list -->
+{% if paginator.total_pages > 1 %}
+  <nav aria-label="Page Navigation">
+    <ul class="pagination align-items-center mt-4 mb-0">
+      {% if paginator.previous_page %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ paginator.previous_page_path | relative_url }}"
+            aria-label="previous-page"
+          >
+            <i class="fas fa-angle-left"></i>
+          </a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <a class="page-link" href="#" aria-label="previous-page">
+            <i class="fas fa-angle-left"></i>
+          </a>
+        </li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% assign page_url = null %}
+
+        {% if page == 1 %}
+          {% assign page_url = paginator.first_page_path %}
+        {% elsif page == paginator.total_pages %}
+          {% assign page_url = paginator.last_page_path %}
+        {% else %}
+          {% for trail_page in paginator.page_trail %}
+            {% if trail_page.num == page %}
+              {% assign page_url = trail_page.path %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+        <li class="page-item {% if page == paginator.page %}active{% endif %}">
+          <a
+            class="page-link"
+            href="{{ page_url | relative_url }}"
+          >
+            {{- page -}}
+          </a>
+        </li>
+      {% endfor %}
+
+      <li class="page-index align-middle">
+        <span>{{ paginator.page }}</span>
+        <span class="text-muted">/ {{ paginator.total_pages }}</span>
+      </li>
+
+      {% if paginator.next_page %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ paginator.next_page_path | relative_url }}"
+            aria-label="next-page"
+          >
+            <i class="fas fa-angle-right"></i>
+          </a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <a class="page-link" href="#" aria-label="next-page">
+            <i class="fas fa-angle-right"></i>
+          </a>
+        </li>
+      {% endif %}
+    </ul>
+  </nav>
+{% endif %}
