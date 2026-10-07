@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
+gem "jekyll-theme-chirpy", "~> 7.6"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-paginate-v2'
 
