@@ -5,6 +5,8 @@ date: 2024-10-05 12:00 +0200
 categories:
   - Games
 tags: [shooting-gallery, new-release, godot]
+featured: true
+featured_order: 3
 
 description: A point and shoot game made in Godot!
 image:

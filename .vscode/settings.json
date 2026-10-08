@@ -26,5 +26,7 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  "html.format.wrapLineLength": 0,
+  "html.format.enable": false
 }

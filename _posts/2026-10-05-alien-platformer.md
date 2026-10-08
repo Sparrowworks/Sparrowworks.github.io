@@ -5,6 +5,8 @@ date: 2022-09-10 12:00 +0200
 categories:
   - Games
 tags: [alien-platformer, new-release, godot]
+featured: true
+featured_order: 2
 
 description: A simple speedrunning platform game made in Godot!
 image:
