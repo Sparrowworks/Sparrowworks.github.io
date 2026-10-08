@@ -4,6 +4,12 @@ refactor: true
 ---
 {% include lang.html %}
 
+{% if paginator.page == 1 %}
+  <div class="home-content">
+    {{ content | markdownify }}
+  </div>
+{% endif %}
+
 {% assign category_posts = paginator.posts %}
 
 {% assign all_pinned = site.posts | where: 'pin', true | where_exp: 'item', 'item.categories contains page.category' %}

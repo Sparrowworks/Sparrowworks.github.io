@@ -32,6 +32,14 @@
         </a>
       </li>
 
+      <li class="nav-item{% if page.url contains '/libraries/' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/libraries/' | relative_url }}" class="nav-link">
+          <i class="fas fa-fw fa-wrench"></i>
+
+          <span>TOOLS</span>
+        </a>
+      </li>
+
       <li class="nav-item{% if page.url contains '/posts/' %}{{ " active" }}{% endif %}">
         <a href="{{ '/posts/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-newspaper"></i>
