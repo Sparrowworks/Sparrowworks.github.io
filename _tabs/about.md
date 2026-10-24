@@ -1,5 +1,4 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 5
 ---
@@ -13,13 +12,13 @@ Yes! We have made [9 games](https://sparrowworks.itch.io/) so far with [Infamy](
 We have also created addons for games like the scene manager [Composer](https://github.com/Sparrowworks/ComposerGodot) and our weapon system [Vanguard](https://github.com/Sparrowworks/Vanguard) which you can also find in the [Godot asset library](https://godotengine.org/asset-library/asset?user=SparrowWorks)!
 
 ## What tools do you use?
-1. [Godot](https://godotengine.org/) - Game engine
-2. [Git](https://git-scm.com/) - To keep track of changes to code
-3. [Github](https://github.com/) - For hosting code and coordinating work.
-4. [GitHub Pages](https://pages.github.com/) - To host this website
-5. [GitHub Desktop](https://github.com/apps/desktop) / [SourceTree](https://www.sourcetreeapp.com/) - To upload & download code to & from GitHub and locally
-6. [Aseprite](https://www.aseprite.org/) - Pixel art
-7. [Audacity](https://www.audacityteam.org/) - Sound stuff
+1. [Godot](https://godotengine.org/) - developing our games
+2. [Git](https://git-scm.com/) - keeping track of changes to code
+3. [Github](https://github.com/) - hosting code and coordinating work
+4. [GitHub Pages](https://pages.github.com/) - hosting this website
+5. [GitHub Desktop](https://github.com/apps/desktop) - uploading and fetching code to and from GitHub
+6. [Aseprite](https://www.aseprite.org/) - making pixel art
+7. [Audacity](https://www.audacityteam.org/) - making any sounds
 
 ## Do you have any social media?
 Of course, check out our [Linktree](https://linktr.ee/SparrowWorks) for a whole list!
