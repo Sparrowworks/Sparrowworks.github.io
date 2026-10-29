@@ -7,7 +7,7 @@ categories:
 tags: [crystal-dash, update, godot]
 
 description: A new update for Crystal Dash is here!
-author: <Sparrow>, <VargaDot>
+author: <SparrowWorks>
 ---
 
 Hello, we are pleased to announce that a new update for Crystal Dash has just arrived! Version 1.4 brings a much-needed revamp of the game, coming in with new graphical assets, new music and more! Let's go through everything step by step:
