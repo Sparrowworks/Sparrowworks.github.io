@@ -7,7 +7,7 @@ categories:
 tags: [crystal-dash, update, godot]
 
 description: A new update for Crystal Dash is here!
-author: <Sparrow>
+author: <Sparrow>, <VargaDot>
 ---
 
 Hello, we are pleased to announce that a new update for Crystal Dash has just arrived! Version 1.4 brings a much-needed revamp of the game, coming in with new graphical assets, new music and more! Let's go through everything step by step:
@@ -24,6 +24,11 @@ Next change on our list is new audio! We have decided to combine both PC and Web
 
 ## Online Leaderboards
 Yes, you saw it, we have added an Online Leaderboard support for Crystal Dash! You can now compete with others for the top spot on the leaderboard! There are 10 places, so you will have to do your best in order to get yourself a place there. During gameplay, you can also see what is your current place, and how close you are to the overtaking the next one.
+
+## Linux X86 Support
+Crystal Dash is now available for the Linux x86 gaming community! this comes as part of our quest to bring our works (old & new) to more platforms and more audiences. From now on, we'll continue to support the x86 community on this game, future & older games. Until then, you are still able to play any game by downloading their windows copy and then play them using [Lutris](https://lutris.net/) & [Wine](https://www.winehq.org/). We thank you for your support!
+
+<i>Note: there's a Godot engine bug that's been there for years now and hasn't been fully patched yet, where the screen draws black borders on the top, left and right of the screen 38% of the time, our solution for the problem was to re-detect the screen's resolution after the main menu loads. so if you see your game screen freezing for a few frames then adjusting itself, that's our fix working.</i>
 
 ## Faster loading times
 We have also took some time, and made sure the game loads as fast as it is possible. Sadly, Godot isn't the best choice when it comes to web games, but we think we did our best with this one. We hope you'll notice the improvements!
